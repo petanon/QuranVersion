@@ -1,5 +1,5 @@
 {
-  "version":"0.0.10",
+  "version":"0.0.11",
   "0": {"name": "طه بن عمر دادي واعمر", "type": "ورش عن نافع من طريق الأزرق بقصر البدل", "path": "Iden09000/Taha-Ben-Omar/master", "title": "taha_ben_omar", "folder": "طه بن عمر دادي واعمر"},
   "1": {"name": "ياسين الجزائري", "type": "ورش عن نافع من طريق الأزرق بقصر البدل", "path": "brmhmh/yacineee/upup", "title": "yacine", "folder": "ياسين الجزائري"},
   "2": {"name": "محمود خليل الحُصَرِي", "type": "ورش عن نافع من طريق الأزرق بتوسط البدل", "path": "brmhmh/alhosary-warsh/master", "title": "7osari_warch", "folder": "محمود خليل الحُصَرِي"},
@@ -7,6 +7,7 @@
   "4": {"name": "عبد الباسط عبد الصمد ", "type": "ورش عن نافع من طريق الأزرق بتوسط البدل", "path": "brmhmh/abd-albasset-warsh/master", "title": "abd_lbaset_warch", "folder": "عبد الباسط عبد الصمد "},
   "5": {"name": "العيون الكوشي", "type": "ورش عن نافع من طريق الأزرق بتوسط البدل", "path": "Iden09000/Laayoun_lkouchi/master", "title": "laayoun_lkouchi", "folder": "العيون الكوشي"},
   "6": {"name": "عمر القزابري", "type": "ورش عن نافع من طريق الأزرق بتوسط البدل", "path": "Iden09000/Omar_l9azabiri/master", "title": "omar_l9azabiri", "folder": "عمر القزابري"},
+  "7": {"name": "مصطفى غربي", "type": "ورش عن نافع من طريق الأزرق بتوسط البدل", "path": "Iden09000/Mustapha_Gharbi/master", "title": "mustapha_gharbi", "folder": "مصطفي غربي"},
   "8": {
     "name":  "صابر عبد الحكم",
     "type": "ورش عن نافع من طريق الأزرق بتوسط البدل",
